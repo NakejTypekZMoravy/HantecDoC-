@@ -44,5 +44,5 @@
 #define použití using
 #define prázdno void
 #define virtualné virtual
-#define unie union
+#define unija union
 #define kompliment compl
